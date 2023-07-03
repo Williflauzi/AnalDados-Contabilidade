@@ -20,14 +20,42 @@ Os documentos servem de base para as contabilizações, conciliaçoes e fechamen
 
 - Fechamento dos relatórios contábeis
 Prazos devem ser observados. E devem ser elaborados independente da utilização pelo cliente. 
-Balanço não deve ser feito somente quando o cliente pedir. 
-
-até 5:50 min
-
+Balanço não deve ser feito somente quando o cliente pedir ou quando vai pedir emprestimo no banco. 
+Contabilidade é o unico instrumento de gestao que consegue fornecer informações precisas sobre o negócio. instrumento de decisão para o futuro da empresa. Cliente deve ser alertado sobre isso pelo seu contador. Importante estar sempre em contato através de reuniões, por telefone, chamada de vídeo ou whatsApp, para explicar alguns numeros que ele não tenha pleno conhecimento a respeito de seu negocio.
+Não adianta ter informações sobre a empresa apos dois anos, quanto antes melhor, para a melhoria dos processos.
+Depois do fechamento contábil de cada empresa é necessário preparar o ECD. 
 
 - ECD / ECF
+ECD = Escrituração contábil digital - substuiu o livro diário (onde se faziam os lançamentos do todos os documentos contábeis, as contabilizações e fechamento dos relatórios contábeis. Depois que eram encadernados, se colocava os termos de abertura e encerramento com os nrs. de cada livro (cada ano representava um livro). Em seguida iam para a Junta comercial ou cartório para registro e depois voltavam para o escritório de contabilidade para depois serem encaminhados ao cliente. 
+
+Funcionava assim até o surgimento da ECD. ou livro diário digital que veio justamente para cortar toda esta parte do precesso. Nela apos se fazer o fechamento dos relatórios contábeis as informações do sistema são transportadas para a ECD que é um sistema do governo. ECD normalmente é entregue em maio.
+ECF em junho. 
+
+ECF é a escrituração contábil fiscal - Não devem ser entendidas somente como balanço, balancete, DRE, DLPA. Vão ser consideradas tambem todos os livros fiscais.
+A ECF contempla todo o faturamento da empresa que vai ser base de cálculo do imposto, algumas inormaçoes relevantes e tambem o balanço patrimonial, ou seja, o que foi informado na ECD será transportado para a ECF. que também será entregue. ECF substitiu a DMPJ e incluiu outras informações.
+
+Este é todo o procedimento feito no departamento contábil. Processo e trabalhoso e varia de empresa para empresa.  
+
 - Integrações Fiscais e depto. pessoal
+Após o fechamento da folha de pagamento, anteriormente o DP mandava o resumo para a depto. contabil fazer a contabilização. Hoje existem as integrações entre os deptos contabil, fiscal e pessoal e eles se comunicam através do sistema. Todas as informações então sao consolidadas para a geração dos relatórios contábeis. 
+Cada sistema funciona de um jeito e tem um formato mas em tese o depto pessoal tem um modulo do sistema onde são cadastrados todos os proventos e descontos da folha de pagamento correlacionando uma conta contabil a cada operação. Já no fiscal normalmente é por CFOP (por operação) e cada uma tem uma contrapartida ou conta contabil. Débito e crédito contábil. Esta integração tambem tem que ser feita pelo analista. 
+Quando não feita através do sistema esta integração deve ser feita manualmente. Nesse caso é um trabalho duplo pois devevem ser relançados o constante das obrigações fiscais nas contábeis. Para as obrigações da folha de pagamento funciona da mesma forma. 
+
 - Movimentação Financeira
+São as contas mensais pagas pela empresa, seja de compras de mercadoria para revenda, despesas com escritório, com folha de pagamento, salário. que devem ser enviadas pela empresa para contabilização. 
+
+Importante fazer um controle individual dessas empresas, de tudo que cada uma deve fazer e
+cobrar a documentação necessária.  
+
+
+2- Integrações no departamento contábil.
+Não faz sentido que após o depto pessoal fazer a folha de pagto o depto contabil tenha que 
+processa-la novamente. Alguns julgam que é trabalhoso configurar o sistema mas em geral a automatização vale a pena e se ganha tempo com isso.  
+Quanto msis se automatizam os processos mais tempo se ganha para fazer conferencias e gerar mais valor para os clientes. O papel do contador nao é só contabilizar documentos. 
+Contabilidade é uma ciencia. Não se deve ter resistencia à tecnologia ela ajuda muito na agilização de todos os processos para uma tomada de decisão mais consciente. 
+No depto fiscal por ex. Imagine uma empresa com mil nf's de entrada e saida tendo que lançar cada uma manualmente. Hoje se faz integração via xml dessas notas para dentro do sistema e faz-se a apuração e conferencia. A contabilidade pode fazer a importação destes dados do fiscal. Isto é válido para todos os escrtórios contábeis, independente da qtde de clientes.  
+
+até 4 min    
 
 
 
@@ -37,7 +65,9 @@ até 5:50 min
 
 
 
-2- Integrações no departamento contábil
+
+
+
 
 3- Excel como ferramenta de trabalho
 
