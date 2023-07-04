@@ -49,13 +49,36 @@ cobrar a documentação necessária.
 
 
 2- Integrações no departamento contábil.
-Não faz sentido que após o depto pessoal fazer a folha de pagto o depto contabil tenha que 
-processa-la novamente. Alguns julgam que é trabalhoso configurar o sistema mas em geral a automatização vale a pena e se ganha tempo com isso.  
-Quanto msis se automatizam os processos mais tempo se ganha para fazer conferencias e gerar mais valor para os clientes. O papel do contador nao é só contabilizar documentos. 
+Não faz sentido que após o depto pessoal fazer a folha de pagto e o depto contabil tenha que processa-la novamente. 
+Alguns julgam que é trabalhoso configurar o sistema mas em geral a automatização vale a pena e se ganha tempo com isso.  
+Quanto mais se automatizam os processos mais tempo se ganha para fazer conferencias e gerar mais valor para os clientes. 
+O papel do contador nao é só contabilizar documentos. 
 Contabilidade é uma ciencia. Não se deve ter resistencia à tecnologia ela ajuda muito na agilização de todos os processos para uma tomada de decisão mais consciente. 
-No depto fiscal por ex. Imagine uma empresa com mil nf's de entrada e saida tendo que lançar cada uma manualmente. Hoje se faz integração via xml dessas notas para dentro do sistema e faz-se a apuração e conferencia. A contabilidade pode fazer a importação destes dados do fiscal. Isto é válido para todos os escrtórios contábeis, independente da qtde de clientes.  
+No depto fiscal por ex. Imagine uma empresa com mil nf's de entrada e saida tendo que lançar cada uma manualmente. 
+Hoje se faz integração via xml dessas notas para dentro do sistema e faz-se a apuração e conferencia. 
+A contabilidade pode fazer a importação destes dados do fiscal. 
+Isto é válido para todos os escrtórios contábeis, independente da qtde de clientes.  
+A transição para o sistemas mais avançados de tecnologia é importante mas muitas vezes encontra resistencia até mesmo dos empresários contábeis por temor da mudança.
+Os que partem para a automatização ganham em produtividade e entregando mais valor e eficiencia ao cliente com custos menores.  
+Muitas vezes os vencedores não são os melhores e sim os que tem mais se capacidade de adaptação.   
 
-até 4 min    
+BPO Financeiro é a terceirização da administração financeira do cliente para ser feita pela contabilidade. Os escritorios contábeis tradicionais não fazem o BPO até por ser um serviço novo. Justamente por isso está muito em evidencia e é uma boa fonte de receita para muitos escritórios.  
+Aquelas atividades rotineiras de fazer folha de pagamento, fazer fiscal, contábil, abertura e fechamento de empresas todo escritório contábil faz. 
+A maioria dos escritórios no entanto não fazem o BPO financeiro. 
+É preciso encontrar novas alternativas e sair do caminho em que todos estão porque a competição é acirrada.
+Normalmente se tem um departamento para cuidar desta parte financeira dos clientes e esta pode ser integrada à contabilidade.  
+Alguns sistemas no mercado permitem que se faca esta integraçao. Na verdade qq RP que se preze vai permitir que se faça o controle financeiro e que seja expurgado para a contabilidade. 
+Basicamente uma pessoa que trabalha no financeiro vai lançar isto em contas a pagar. Por ex uma conta de luz quando lançada automaticamente vai ser integrada à contabilidade. Inicialmente como uma provisao se nao tiver sido vencida ainda. Depois de vencida o financeiro vai tirar do banco, fazer uma consideração, colocar como pagamento de energia eletrica que vai se tornar um debito credito na contabilidade. Energia eletrica a pagar contra banco. 
+
+Integração é obrigação e quem não se adaptar pode acabar ficando de fora do mercado. Ainda é tempo para fazer esta adaptação. 
+
+
+
+
+
+
+
+
 
 
 
