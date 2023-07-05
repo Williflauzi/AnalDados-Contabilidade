@@ -68,33 +68,21 @@ A maioria dos escritórios no entanto não fazem o BPO financeiro.
 É preciso encontrar novas alternativas e sair do caminho em que todos estão porque a competição é acirrada.
 Normalmente se tem um departamento para cuidar desta parte financeira dos clientes e esta pode ser integrada à contabilidade.  
 Alguns sistemas no mercado permitem que se faca esta integraçao. Na verdade qq RP que se preze vai permitir que se faça o controle financeiro e que seja expurgado para a contabilidade. 
-Basicamente uma pessoa que trabalha no financeiro vai lançar isto em contas a pagar. Por ex uma conta de luz quando lançada automaticamente vai ser integrada à contabilidade. Inicialmente como uma provisao se nao tiver sido vencida ainda. Depois de vencida o financeiro vai tirar do banco, fazer uma consideração, colocar como pagamento de energia eletrica que vai se tornar um debito credito na contabilidade. Energia eletrica a pagar contra banco. 
+Basicamente uma pessoa que trabalha no financeiro vai lançar isto em contas a pagar. Por ex. uma conta de luz quando lançada automaticamente vai ser integrada à contabilidade. Inicialmente como uma provisao se nao tiver sido vencida ainda. Depois de vencida o financeiro vai tirar do banco, fazer uma consideração, colocar como pagamento de energia eletrica que vai se tornar um debito credito na contabilidade. Energia eletrica a pagar contra banco. 
 
 Integração é obrigação e quem não se adaptar pode acabar ficando de fora do mercado. Ainda é tempo para fazer esta adaptação. 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 3- Excel como ferramenta de trabalho
 
+
+
+
 4- Como gerenciar equipes
+
+
+
 
 5- Motivando a equipe 
 
