@@ -4,7 +4,7 @@ Ueslei Rocha - Sevilha Educação.
 FAC vai possibilitar dominar 100% das rotinas do depto contábil.
 Tudo sobre o desenvolvimento da carreira.
 Networking de altissimo nivel na área contábil.
-Essencialmente prático.
+Essencialmente prático
 
 Módulo 1 - Rotinas do departamento Contábil
 
@@ -47,7 +47,6 @@ São as contas mensais pagas pela empresa, seja de compras de mercadoria para re
 Importante fazer um controle individual dessas empresas, de tudo que cada uma deve fazer e
 cobrar a documentação necessária.  
 
-
 2- Integrações no departamento contábil.
 Não faz sentido que após o depto pessoal fazer a folha de pagto e o depto contabil tenha que processa-la novamente. 
 Alguns julgam que é trabalhoso configurar o sistema mas em geral a automatização vale a pena e se ganha tempo com isso.  
@@ -72,10 +71,7 @@ Basicamente uma pessoa que trabalha no financeiro vai lançar isto em contas a p
 
 Integração é obrigação e quem não se adaptar pode acabar ficando de fora do mercado. Ainda é tempo para fazer esta adaptação. 
 
-
-
 3- Excel como ferramenta de trabalho
-
 
 
 
@@ -83,10 +79,5 @@ Integração é obrigação e quem não se adaptar pode acabar ficando de fora d
 
 
 
-
 5- Motivando a equipe 
-
-
-
-
 
