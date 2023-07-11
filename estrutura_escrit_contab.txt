@@ -44,8 +44,7 @@ Quando não feita através do sistema esta integração deve ser feita manualmen
 - Movimentação Financeira
 São as contas mensais pagas pela empresa, seja de compras de mercadoria para revenda, despesas com escritório, com folha de pagamento, salário. que devem ser enviadas pela empresa para contabilização. 
 
-Importante fazer um controle individual dessas empresas, de tudo que cada uma deve fazer e
-cobrar a documentação necessária.  
+Importante fazer um controle individual dessas empresas, de tudo que cada uma deve fazer e cobrar a documentação necessária.  
 
 2- Integrações no departamento contábil.
 Não faz sentido que após o depto pessoal fazer a folha de pagto e o depto contabil tenha que processa-la novamente. 
@@ -73,11 +72,7 @@ Integração é obrigação e quem não se adaptar pode acabar ficando de fora d
 
 3- Excel como ferramenta de trabalho
 
-
-
 4- Como gerenciar equipes
-
-
 
 5- Motivando a equipe 
 
